@@ -1,0 +1,9 @@
+G:\SuperSimpleStocks\SuperSimpleStocks\SuperSimpleStocks\bin\Release\SuperSimpleStocks.exe.config
+G:\SuperSimpleStocks\SuperSimpleStocks\SuperSimpleStocks\bin\Release\SuperSimpleStocks.exe
+G:\SuperSimpleStocks\SuperSimpleStocks\SuperSimpleStocks\bin\Release\SuperSimpleStocks.pdb
+G:\SuperSimpleStocks\SuperSimpleStocks\SuperSimpleStocks\obj\Release\SuperSimpleStocks.csprojResolveAssemblyReference.cache
+G:\SuperSimpleStocks\SuperSimpleStocks\SuperSimpleStocks\obj\Release\SuperSimpleStocks.Main.resources
+G:\SuperSimpleStocks\SuperSimpleStocks\SuperSimpleStocks\obj\Release\SuperSimpleStocks.Properties.Resources.resources
+G:\SuperSimpleStocks\SuperSimpleStocks\SuperSimpleStocks\obj\Release\SuperSimpleStocks.csproj.GenerateResource.Cache
+G:\SuperSimpleStocks\SuperSimpleStocks\SuperSimpleStocks\obj\Release\SuperSimpleStocks.exe
+G:\SuperSimpleStocks\SuperSimpleStocks\SuperSimpleStocks\obj\Release\SuperSimpleStocks.pdb
